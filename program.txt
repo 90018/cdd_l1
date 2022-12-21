@@ -1,0 +1,17 @@
+echo "# cdd_l1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/90018/cdd_l1.git
+git push -u origin main
+
+
+git init
+git clone
+touch h1.txt
+vi h1.txt
+cat h1.txt
+git status
+git commit
+git push
